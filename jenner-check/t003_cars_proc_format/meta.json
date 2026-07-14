@@ -1,0 +1,7 @@
+{
+  "bundle": "t003_cars_proc_format",
+  "source_file": "Chapter4.sas",
+  "source_blob_sha": "3d081489a251ffa87ad6b3293ac4cafbf9a359e0",
+  "source_commit": "7e5daf855d21f809eacc504de50ae8bf1303b3ac",
+  "notes": "PROC FORMAT with numeric range labels (13 -< 20, 20 <- 65, 65 - HIGH) and a character map, applied in PROC PRINT; external CSV replaced with 4 inline rows, formats unchanged."
+}

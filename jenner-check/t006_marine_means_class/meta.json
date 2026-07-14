@@ -1,0 +1,7 @@
+{
+  "bundle": "t006_marine_means_class",
+  "source_file": "Chapter5.sas",
+  "source_blob_sha": "5fe6d580b5ddc92afc2c42e43a604171b585bbb5",
+  "source_commit": "7e5daf855d21f809eacc504de50ae8bf1303b3ac",
+  "notes": "PROC MEANS with a CLASS group variable and MEAN/MIN/MAX statistics; external INFILE replaced with 8 inline rows, PROC MEANS and PROC PRINT unchanged."
+}

@@ -1,0 +1,7 @@
+{
+  "bundle": "t004_marine_sort_nodupkey",
+  "source_file": "Chapter4.sas",
+  "source_blob_sha": "3d081489a251ffa87ad6b3293ac4cafbf9a359e0",
+  "source_commit": "7e5daf855d21f809eacc504de50ae8bf1303b3ac",
+  "notes": "PROC SORT with NODUPKEY and a DESCENDING sort key producing seasort; external INFILE replaced with 8 inline rows (one intentional duplicate) so the dedup is visible."
+}

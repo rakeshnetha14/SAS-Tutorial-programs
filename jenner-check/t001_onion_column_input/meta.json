@@ -1,0 +1,7 @@
+{
+  "bundle": "t001_onion_column_input",
+  "source_file": "Chapter2_code.sas",
+  "source_blob_sha": "2d355897c2fb166a4b7a8fdfc36f55755f05d345",
+  "source_commit": "7e5daf855d21f809eacc504de50ae8bf1303b3ac",
+  "notes": "Column-input DATA step (INPUT with fixed 1-20/21-24 field ranges) reading the Onion_rings dataset; the external INFILE path was replaced with 5 equivalent inline DATALINES rows, INPUT statement and PROC PRINT unchanged."
+}

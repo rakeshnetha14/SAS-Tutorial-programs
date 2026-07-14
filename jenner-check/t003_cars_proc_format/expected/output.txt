@@ -1,0 +1,8 @@
+                                          Car Survey with user defined Formats
+
+  Obs     Age     Sex   Income            Color
+    1   Adult    Male  $45,000  Moon White
+    2   Adult  Female  $88,000  Sky Blue
+    3    Teen    Male  $12,000  Sunburst Yellow
+    4  Senior  Female  $33,000  Rain Cloud Gray
+

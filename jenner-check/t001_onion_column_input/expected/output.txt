@@ -1,0 +1,9 @@
+                                                    Onion Sales Data
+
+  Obs  VisitingTeam  ConcessionSales  BleacherSales  OutHits  TheirHits  OurScore  TheirScore
+    1  Red Sox                  1200            340       12          8         5           3
+    2  Yankees                  2200            560       15         11         7           6
+    3  Blue Jays                 980            210        9         10         2           4
+    4  Orioles                  1500            400       11          9         6           5
+    5  Rays                     1100            300        8          7         3           2
+

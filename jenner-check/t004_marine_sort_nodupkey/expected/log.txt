@@ -1,0 +1,21 @@
+NOTE: Jenner v1.5.30 (build v1.5.30+unknown.20260714T020019Z.x86_64-unknown-linux-gnu)
+
+NOTE: Option OBS changed to 100.
+NOTE: DATA marine
+
+NOTE: Processing inline DATALINES (2 lines)
+
+NOTE: Read 8 rows from DATALINES.
+NOTE: Wrote marine (8 rows, 3 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC SORT data=marine
+
+NOTE: 1 duplicate observations were deleted.
+NOTE: Read 8 rows from marine.
+NOTE: Wrote seasort (7 rows, 3 columns).
+NOTE: PROC SORT statement used.
+NOTE: PROC PRINT data=seasort
+
+NOTE: PROC PRINT completed: 7 observations printed, 3 variables
