@@ -1,0 +1,7 @@
+{
+  "bundle": "t005_orders_freq_twoway",
+  "source_file": "Chapter4.sas",
+  "source_blob_sha": "3d081489a251ffa87ad6b3293ac4cafbf9a359e0",
+  "source_commit": "7e5daf855d21f809eacc504de50ae8bf1303b3ac",
+  "notes": "PROC FREQ with a one-way and a two-way (Window*Coffee) crosstab; external INFILE with @@ read replaced by inline DATALINES rows, TABLES statement unchanged."
+}

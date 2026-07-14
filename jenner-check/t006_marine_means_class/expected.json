@@ -1,0 +1,18 @@
+{
+  "_captured_at": "2026-07-14T09:23:43Z",
+  "_captured_run_id": "r_3b0df603f6c3426e8fbf6d3ef8d48c9e",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: PROC MEANS",
+    "NOTE: PROC PRINT completed: 8 observations printed"
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

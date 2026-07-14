@@ -1,0 +1,7 @@
+{
+  "bundle": "t002_songs_arrays",
+  "source_file": "Chapter3_code.sas",
+  "source_blob_sha": "7e415b53b2faa8caef38792c0b2fef99132db3d2",
+  "source_commit": "7e5daf855d21f809eacc504de50ae8bf1303b3ac",
+  "notes": "Parallel ARRAY recode (ARRAY new(5) Song1-Song5; ARRAY old(5) wj--ttr) with a DO loop and MEAN(OF Song1-Song5); external CSV replaced with 3 inline DATALINES rows, logic unchanged."
+}

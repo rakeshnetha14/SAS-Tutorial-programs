@@ -1,0 +1,11 @@
+                                                   Whales and Sharks
+
+  Obs         Name  Family  Length
+    1  Whale_Shark  Shark       40
+    2  Great_White  Shark       20
+    3  Mako         Shark       12
+    4  Nurse        Shark       10
+    5  Blue         Whale       30
+    6  Orca         Whale       25
+    7  Beluga       Whale       15
+
